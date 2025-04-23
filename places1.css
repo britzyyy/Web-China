@@ -85,19 +85,19 @@ header.nav {
     margin: 0 auto;
 }
 
-.food1 {
+.wall {
 margin-bottom: 70px;
 
 
 }
-.food1 h2{
+.wall h2{
     font-size: 2.5em;
     color:aqua;
     margin-left: 550px;
 
 }
 
-.food-content {
+.wall-content {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -106,7 +106,7 @@ margin-bottom: 70px;
     padding-top: 40px;
 }
 
-.food-text {
+.wall-text {
     flex: 1;
     font-size: 1.2em;
     color: #aaa;
@@ -114,13 +114,13 @@ margin-bottom: 70px;
     margin-left: 50px;
 }
 
-.peking-duck {
+.wall-picture {
     flex: 1;
     display: flex;
     justify-content: flex-end;
 }
 
-.peking-duck img {
+.wall-picture img {
     max-width: 100%;
     height: auto;
     border-radius: 30px;
