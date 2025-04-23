@@ -177,7 +177,7 @@ margin-bottom: 70px;
     margin-bottom: 40px;
 }
 
-.food3 {
+.city {
     background-color:#000;
     margin-top: 10px;
 
@@ -185,7 +185,7 @@ margin-bottom: 70px;
 }
 
 
-.food3 h2{
+.city h2{
     font-size: 2.5em;
     color:aqua;
     margin-left: 550px;
@@ -195,7 +195,7 @@ margin-bottom: 70px;
 
 }
 
-.food-content3 {
+.city-content {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -204,7 +204,7 @@ margin-bottom: 70px;
     padding-top: 40px;
 }
 
-.food-text3 {
+.city-text {
     flex: 1;
     font-size: 20px;
     font: bold;
@@ -213,13 +213,13 @@ margin-bottom: 70px;
     margin-left: 50px;
 }
 
-.mapo-tofu {
+.city-picture {
     flex: 1;
     display: flex;
     justify-content: flex-end;
 }
 
-.mapo-tofu img {
+.city-picture img {
 
     border-radius: 30px;
     margin-right: 40px;
