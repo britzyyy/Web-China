@@ -128,7 +128,7 @@ margin-bottom: 70px;
     
 }
 
-.food2 {
+.river {
     background-color: #8a3030;
 
     margin-bottom: 70px;
@@ -136,7 +136,7 @@ margin-bottom: 70px;
 }
 
 
-.food2 h2{
+.river h2{
     font-size: 2.5em;
     color:aqua;
     margin-left: 550px;
@@ -146,7 +146,7 @@ margin-bottom: 70px;
 
 }
 
-.food-content2 {
+.river-content {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -155,7 +155,7 @@ margin-bottom: 70px;
     padding-top: 40px;
 }
 
-.food-text2 {
+.river-text {
     flex: 1;
     font-size: 20px;
     font: bold;
@@ -164,13 +164,13 @@ margin-bottom: 70px;
     margin-left: 50px;
 }
 
-.kung-pao {
+.river-picture {
     flex: 1;
     display: flex;
     justify-content: flex-end;
 }
 
-.kung-pao img {
+.river-picture img {
 
     border-radius: 30px;
     margin-right: 40px;
