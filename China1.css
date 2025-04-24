@@ -3,6 +3,8 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: #000;
     color: #fff;
+    background-image: url(great\ wall\ of\ china\ 1.jpg);
+    background-size: 800px;
 }
 
 header.nav {
