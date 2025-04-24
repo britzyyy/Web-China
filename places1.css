@@ -274,3 +274,19 @@ margin-bottom: 70px;
     margin-right: 40px;
     margin-bottom: 40px;
 }
+
+.primary-button{
+    position: absolute;
+    top: 700px;
+    left: 80%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgba(230, 32, 81, 0.7);
+
+}
